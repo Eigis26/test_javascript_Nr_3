@@ -38,16 +38,6 @@
 //   }
 //   while (i !== 5);
 
-// 6. Sukurti masyvą, kurio ilgis būtų nuo 20 iki 30, o reikšmės būtų skaičiai nuo 10 iki 30. Surasti didžiausią masyvo reikšmę, NENAUDOJANT sort() bei Math.max() funkcijų. (7 taškai)
-// masyvoIlgis = Math.floor(Math.random()*(30-20)+20);
-// masyvas = [];
-// masyvas.length = masyvoIlgis;
-// for (i = 0; i < masyvoIlgis; i++){
-//     masyvoSkaiciai = Math.floor(Math.random()*(30-10+10)+10);
-//     masyvas.push(masyvoSkaiciai);
-// }
-// console.log(masyvas);
-
 // 7. Sugeneruokite masyvą, kurio reikšmės atsitiktinės raidės A, B, C ir D, o ilgis 100. Suskaičiuokite kiek yra kiekvienos raidės. (7 taškai)
 // let suskaiciuoti = {};
 // array = [];
